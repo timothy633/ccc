@@ -1,2 +1,6 @@
-test = test1
-print("test")
+name = timmy
+race = elf
+class = bard
+print (name)
+print (race)
+print (class)
